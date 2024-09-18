@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, The University of Texas at Arlington, 2024 (expected)
+* Master of Science in Computer Science, The University of Texas at Arlington, 2017
+* Bachelor of Engineering in Computer Science and Engineering, College of Engineering-Guindy, Anna University, 2014
 
 Work experience
 ======
