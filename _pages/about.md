@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/). My PhD advisors are Professor [Fillia Makedon](https://heracleia.uta.edu/~makedon/index.html) and Dr. [Nicholas Gans](https://www.uta.edu/academics/faculty/profile?user=nick.gans). I work in the [Heracleia Lab](https://heracleia.uta.edu/#).
+I am a PhD student in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/). My PhD advisors are Professor [Fillia Makedon](https://heracleia.uta.edu/~makedon/index.html) and [Dr. Nicholas Gans](https://www.uta.edu/academics/faculty/profile?user=nick.gans). I work in the [Heracleia Lab](https://heracleia.uta.edu/#).
 
 Research Interests
 ======
