@@ -13,5 +13,5 @@ I received the Master of Science (M.S) Degree in Computer Science from The Unive
 
 Research Interests
 ======
-My research interest involves around the integration of concepts from Internet of Things, Machine Learning, Deep Learning and Robotics (especially Human Robot Interaction) and apply it in Human Centric Scenarios and Human Robot Interactive Scenarios.
+My research interest involves around the integration of concepts from Internet of Things, Machine Learning, Deep Learning, Computer Vision and Robotics and apply it in Human Centric Scenarios and Human Robot Interactive Scenarios.
 
