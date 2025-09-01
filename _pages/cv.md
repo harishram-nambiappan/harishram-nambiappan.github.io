@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found [here](harishram-nambiappan.github.io/files/Harish_Ram_Nambiappan_CV_1.pdf).
+My CV can be found [here](https://harishram-nambiappan.github.io/files/Harish_Ram_Nambiappan_CV_1.pdf).
