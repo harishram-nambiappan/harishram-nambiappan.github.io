@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/). My PhD advisors are Professor [Fillia Makedon](https://heracleia.uta.edu/~makedon/index.html) and [Dr. Nicholas Gans](https://www.uta.edu/academics/faculty/profile?user=nick.gans). I work in the [Heracleia Lab](https://heracleia.uta.edu/#).
+I am a researcher in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/). My PhD advisors are Professor [Fillia Makedon](https://heracleia.uta.edu/~makedon/index.html) and [Dr. Nicholas Gans](https://www.uta.edu/academics/faculty/profile?user=nick.gans). I work in the [Heracleia Lab](https://heracleia.uta.edu/#).
 
-I received the Master of Science (M.S) Degree in Computer Science from The University of Texas at Arlington (2017) and Bachelor of Engineering (B.E) Degree in Computer Science and Engineering from College of Engineering, Guindy - Anna University, India (2014)
+I received the PhD in Computer Science (2024), Master of Science (M.S) Degree in Computer Science from The University of Texas at Arlington (2017) and Bachelor of Engineering (B.E) Degree in Computer Science and Engineering from College of Engineering, Guindy - Anna University, India (2014)
 
 Research Interests
 ======
